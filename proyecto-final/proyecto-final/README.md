@@ -1,0 +1,1 @@
+	Sistema completo que integra todo lo aprendido: POO, archivos, excepciones, interfaz gráfica y arquitectura MVC.

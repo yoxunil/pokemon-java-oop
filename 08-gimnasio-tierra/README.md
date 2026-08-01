@@ -1,0 +1,1 @@
+Interfaces gráficas con Swing y organización del proyecto bajo el patrón MVC.

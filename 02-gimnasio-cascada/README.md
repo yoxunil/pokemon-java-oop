@@ -1,0 +1,1 @@
+Control de flujo: condicionales (if/else, switch) y ciclos (for, while) para tomar decisiones y repetir procesos.
