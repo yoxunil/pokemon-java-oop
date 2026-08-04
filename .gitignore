@@ -1,0 +1,15 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# Compilados de Java
+*.class
+*.jar
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
