@@ -1,0 +1,1 @@
+El dia de hoy aprendi sobre como crear variables, los tipos de datos primitivos y string para cadenas de caracteres operaciones matematicas basicas y como mostrar mensajes en pantalla.
