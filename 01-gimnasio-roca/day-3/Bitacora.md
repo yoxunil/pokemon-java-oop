@@ -1,0 +1,1 @@
+Tipos primitivos a fondo, literales, inicialización y alcance (scope)
