@@ -12,5 +12,6 @@ public class Ejercicio_2 {
         System.out.println("The hp of the pokemon is: " + hp);
         System.out.println("The evolution of the pokemon is: " + evolution);
         System.out.println("The weight of the pokemon is: " + weight);
+        
     }
 }
